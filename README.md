@@ -2,7 +2,7 @@
 Visualises Google's mobility data over the following period: Feb 15th to 7th June
 
 ## Steps to run the program:
-###### 1. Download the most recent .csv file from the below data source
+## 1. Download the most recent .csv file from the below data source
 Google LLC "Google COVID-19 Community Mobility Reports".
 https://www.google.com/covid19/mobility/ 
 Last accessed: 12 June 2020. (for the program, you will find it in the files on Github)
@@ -42,7 +42,7 @@ The program reads and converts the data into a json format like the one below:
 and so on.    
 
 
-###### 3. Run the mobility_visualise.py to see the visualisation. 
+## 3. Run the mobility_visualise.py to see the visualisation. 
 
 It will prompt you to enter a country name e.g. India or United States or United Kingdom
 
