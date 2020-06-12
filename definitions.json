@@ -1,0 +1,40 @@
+{
+    "grocery_and_pharmacy_percent_change_from_baseline": {
+        "h1": "Grocery & pharmacy",
+        "h2": "Mobility trends for places like grocery shops, grocery markets, pharmacies etc."
+    },
+    "retail_and_recreation_percent_change_from_baseline": {
+        "h1": "Retail & recreation",
+        "h2": "Mobility trends for places like restaurants, cafes, shopping centers etc."
+    },
+    "parks_percent_change_from_baseline": {
+        "h1": "Parks",
+        "h2": "Mobility trends for places like local parks, national parks etc."
+    },
+    "transit_stations_percent_change_from_baseline": {
+        "h1": "Transit stations",
+        "h2": "Mobility trends for public transport hubs."
+    },
+    "workplaces_percent_change_from_baseline": {
+        "h1": "Workplaces",
+        "h2": "Mobility trends for places of work."
+    },
+    "residential_percent_change_from_baseline": {
+        "h1": "Residential",
+        "h2": "Mobility trends for places of residence."
+    }
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
