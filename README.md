@@ -22,7 +22,7 @@ The program assumes the .csv file has the below headers (as of the latest data p
 
 
 The program reads and converts the data into a json format like the one below:
-'''
+```
 {
     "2020-02-15": 
         {"United Arab Emirates": 
@@ -38,7 +38,7 @@ The program reads and converts the data into a json format like the one below:
     "2020-02-16":
         {...
         }
-'''
+```
 and so on.    
 
 
@@ -48,7 +48,7 @@ It will prompt you to enter a country name e.g. India or United States or United
 
 The program assumes that the mobility.json stores values in the format where each date is a dictionary from 
 country name to country data. Example below:
-'''
+```
 {
     "2020-02-15": 
         {"United Arab Emirates": 
@@ -64,5 +64,5 @@ country name to country data. Example below:
     "2020-02-16":
         {...
         }
-'''
+```
 and so on.
