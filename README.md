@@ -1,5 +1,5 @@
 # Mobillity_data_visualisation
-Visualises Google's mobility data over the following period: Feb 15th to 7th June
+Visualises Google's mobility data over the following period: Feb 15th to 7th June, 2020
 
 ## Steps to run the program:
 ## 1. Download the most recent .csv file from the below data source
